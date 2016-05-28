@@ -1,0 +1,1144 @@
+# opendroid <formianodicastellone@hotmail.it>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: OPDpanel mod OPD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-30 08:58+0100\n"
+"PO-Revision-Date: 2016-05-28 17:52+0200\n"
+"Last-Translator: opendroid <formianodicastellone@hotmail.it>\n"
+"Language-Team: opendroid\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Cancel"
+msgstr "Cancella"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Permission denied...."
+msgstr "Permesso negato"
+
+msgid "SoftCam Panel"
+msgstr "Panello SoftCam"
+
+msgid "Addon-Manager"
+msgstr "Addon-Manager"
+
+msgid "Setup"
+msgstr "Configurazione"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Plugins"
+msgstr "Plugins IPK"
+
+msgid "Info"
+msgstr "Informazioni"
+
+msgid "Autostart Config"
+msgstr "Configurazione Autoavvio"
+
+msgid "Generic Config"
+msgstr "Parametri generali"
+
+msgid "Audio/Video/SAT Config"
+msgstr "Audio/Video/Config SAT"
+
+msgid "Devices Config"
+msgstr "Parametri USB Pendriver"
+
+#, fuzzy
+msgid "Recording Config"
+msgstr "Parametri generali"
+
+#, fuzzy
+msgid "CAM/EMU Config"
+msgstr "CAM/Configurazione EMU"
+
+msgid "Network Config"
+msgstr "Configurazione di rete"
+
+msgid "Parental "
+msgstr "Parentale"
+
+#, fuzzy
+msgid "Remote Config"
+msgstr "Configurazione remota"
+
+#, fuzzy
+msgid "Szap Config"
+msgstr "Configurazione Opendroid"
+
+#, fuzzy
+msgid "Beta Config"
+msgstr "Parametri rete"
+
+msgid "Automount"
+msgstr "Automount"
+
+msgid "Autostart"
+msgstr "Autoavvio"
+
+#, fuzzy
+msgid "Red-Key-Action"
+msgstr "Azione Red key"
+
+msgid "Blue-Key-Action"
+msgstr "Azione blue key"
+
+msgid "miniconfig"
+msgstr "Configurazione MiniUboot"
+
+msgid "Fan Control"
+msgstr "Controllo ventola"
+
+msgid "Networksetup"
+msgstr "Impostazione rete"
+
+msgid "PlugLoad"
+msgstr "Controllo plugin"
+
+msgid "Record"
+msgstr "Partizione per la registrazione"
+
+msgid "VideoTune"
+msgstr "VideoTune (sistema)"
+
+msgid "Pluginbrowser"
+msgstr "Menu supplementare"
+
+msgid "TMP IPK LIST"
+msgstr "Lista tmp IPK"
+
+msgid "TMP IPK INSTALL"
+msgstr "Installa tmp IPK"
+
+msgid "TMP IPK REMOVE"
+msgstr "Rimuovi tmp IPK"
+
+msgid "Bootargs"
+msgstr "Bootargs"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "FreeSpace"
+msgstr "Spazio disponibile"
+
+msgid "Kernel"
+msgstr "Kernel"
+
+msgid "Mounts"
+msgstr "Mounts"
+
+msgid "Network"
+msgstr "Rete"
+
+msgid "Ram"
+msgstr "RAM"
+
+msgid "System Info"
+msgstr "Info sistema"
+
+msgid "Cpu"
+msgstr "CPU"
+
+msgid "MemInfo"
+msgstr "Info memoria"
+
+msgid "Mtd"
+msgstr "MTD"
+
+msgid "Module"
+msgstr "Moduli"
+
+msgid "Partitions"
+msgstr "Partizioni"
+
+msgid "Swap"
+msgstr "Swap"
+
+msgid "Top"
+msgstr "Top processi"
+
+msgid "Info image"
+msgstr "Informazione immagine"
+
+msgid "Backup"
+msgstr "Backup"
+
+#, fuzzy
+msgid "Backup / Restore Settings"
+msgstr "Ripristino Settings"
+
+msgid "Flash Tmp Updater"
+msgstr "Aggiornamento Flash tmp"
+
+msgid "Flash Online Updater"
+msgstr "Aggiornamento Flash online"
+
+msgid "Usb Tmp Updater"
+msgstr "Aggiornamento USB tmp"
+
+msgid "Usb Online Updater"
+msgstr "Aggiornamento USB online"
+
+msgid ""
+"No IPK found\n"
+"\n"
+msgstr ""
+"IPK non trovato\n"
+"\n"
+"\n"
+
+msgid ""
+"List IPK\n"
+"\n"
+msgstr ""
+"Lista IPK\n"
+"\n"
+
+msgid "an internal error has occur"
+msgstr "Si è verificato un errore interno"
+
+msgid ""
+"Remove IPK\n"
+"\n"
+msgstr ""
+"Rimuovi IPK\n"
+"\n"
+
+msgid "Successfully terminated"
+msgstr "Terminato con successo"
+
+msgid "Please choose an extension to..."
+msgstr "Scegli un plugin..."
+
+msgid "blue key calls "
+msgstr "Azione Tasto blu attuale:  "
+
+#, fuzzy
+msgid "Default "
+msgstr "Default"
+
+#, fuzzy
+msgid "Softcam"
+msgstr "SoftCam Menu"
+
+msgid "show single service EPG"
+msgstr ""
+
+msgid "show multi service EPG"
+msgstr ""
+
+msgid "Restart"
+msgstr "Riavvio"
+
+msgid "Deactivate"
+msgstr "Disattivare"
+
+msgid "Refresh"
+msgstr "Attualizza"
+
+msgid "Activate"
+msgstr "Attivare"
+
+msgid "No ECM info"
+msgstr "ECM Info non disponibile"
+
+#, fuzzy
+msgid "Softcam Panel V0.27"
+msgstr "Softcam Panel V0.24"
+
+#, fuzzy
+msgid "Softcam auswahl:"
+msgstr "SoftCam Menu"
+
+#, fuzzy
+msgid "no emu found"
+msgstr ""
+"IPK non trovato\n"
+"\n"
+"\n"
+
+msgid "No new ECM info"
+msgstr "Nuovo ECM info fallito"
+
+msgid "This Softcam Emuconfig is comming soon... (current oscam only) !"
+msgstr ""
+
+msgid "Your Softcam has on unsupported filename... !"
+msgstr ""
+
+msgid "/dev/sci0"
+msgstr ""
+
+msgid "/dev/sci1"
+msgstr ""
+
+msgid "/dev/ttyUSB0"
+msgstr ""
+
+msgid "/dev/ttyUSB1"
+msgstr ""
+
+#, fuzzy
+msgid "Select your Device"
+msgstr "Scegli il dispositivo per l'installazione"
+
+msgid "internal"
+msgstr ""
+
+msgid "mouse"
+msgstr ""
+
+msgid "cccam"
+msgstr ""
+
+msgid "camd35"
+msgstr ""
+
+msgid "newcamd"
+msgstr ""
+
+msgid "Select your Protocol"
+msgstr ""
+
+#, python-format
+msgid "Enter your change for: %s"
+msgstr ""
+
+msgid "yes"
+msgstr "Si"
+
+msgid "no"
+msgstr "No"
+
+msgid "status"
+msgstr "Stato"
+
+msgid "ip"
+msgstr "IP"
+
+msgid "high"
+msgstr "alto"
+
+msgid "low"
+msgstr "basso"
+
+msgid "off"
+msgstr "off"
+
+msgid "big"
+msgstr "grande"
+
+msgid "small"
+msgstr "piccolo"
+
+msgid "normal"
+msgstr "Normale"
+
+msgid "hdd"
+msgstr "HDD"
+
+msgid " swap"
+msgstr "Penndrive SWAP"
+
+msgid "always"
+msgstr ""
+
+#, fuzzy
+msgid "at bootloop"
+msgstr "bootlogo"
+
+msgid "don`t split"
+msgstr ""
+
+msgid "1 GigaByte"
+msgstr ""
+
+msgid "2 GigaByte"
+msgstr ""
+
+msgid "3 GigaByte"
+msgstr ""
+
+msgid "4 GigaByte"
+msgstr ""
+
+msgid "e1 ending (*.001 , *.002 , ...)"
+msgstr ""
+
+msgid "*.ts ending"
+msgstr ""
+
+msgid "tuner 1"
+msgstr ""
+
+msgid "tuner 2"
+msgstr ""
+
+msgid "tuner 3"
+msgstr ""
+
+msgid "tuner 4"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "2 readers"
+msgstr ""
+
+msgid "3 readers"
+msgstr ""
+
+msgid "4 readers"
+msgstr ""
+
+msgid "5 readers"
+msgstr ""
+
+msgid "6 readers"
+msgstr ""
+
+msgid "7 readers"
+msgstr ""
+
+msgid "no one"
+msgstr ""
+
+msgid "1 reader"
+msgstr ""
+
+msgid "fsckroot"
+msgstr "fsckroot"
+
+msgid "bootstop"
+msgstr "bootstop (ferma il sistema dopo s)"
+
+msgid "debug"
+msgstr "debug (Impostazione debug)"
+
+#, fuzzy
+msgid "logto"
+msgstr "e2logto (e2 Ausgabe loggen)"
+
+#, fuzzy
+msgid "errorboot"
+msgstr "e2errorboot (avviare solo la GUI dopo un GS?)"
+
+msgid "repairmodus"
+msgstr ""
+
+msgid "rmcrashlog"
+msgstr "rmcrashlog (eliminare protocollo errorel)"
+
+msgid "rmemthy"
+msgstr "rmemthy"
+
+msgid "plugload"
+msgstr "plugload (Controllo Plugin)"
+
+msgid "progressbar"
+msgstr ""
+
+msgid "showip"
+msgstr "showip (Mostra stato IP nel Display LCD)"
+
+#, fuzzy
+msgid "showtvinfo"
+msgstr "showiptv (Mostra Info in TV all avvio)"
+
+msgid "playlist"
+msgstr "playlist"
+
+msgid "updatelist"
+msgstr "updatelist (Anzahl Images in Updateliste)"
+
+msgid "oldaudiofw"
+msgstr ""
+
+msgid "noaudiosync"
+msgstr ""
+
+msgid "BootResolution"
+msgstr "BootResolution (Risoluzione Boot)"
+
+msgid "bootlogo"
+msgstr "bootlogo (Bootbild anzeigen)"
+
+msgid "poweroff"
+msgstr "poweroff (Bootbild bei Shutdown/Reboot)"
+
+msgid "fontsize"
+msgstr "fontsize (Testo NoGFX Skin)"
+
+#, fuzzy
+msgid "scartonstandby"
+msgstr "SoftStandby"
+
+msgid "HighSR"
+msgstr "HighSR (Usa risoluzione alta)"
+
+msgid "tuner_sleep_off"
+msgstr ""
+
+msgid "bootrgbfix"
+msgstr ""
+
+msgid "Info OPDPanel"
+msgstr "OPDPanel"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1633
+msgid "loadpartition"
+msgstr "loadpartition (rileggi tabella delle partizioni)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1634
+msgid "fsckrecord"
+msgstr "fsckrecord (Controllo filesystem partizione RECORD)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1635
+msgid "swap"
+msgstr "swap (Usa memoria supplementare Spaw)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1636
+msgid "swapsize"
+msgstr "swapsize"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1637
+msgid "fsckswap"
+msgstr "fsckswap (Controllo filesisem partizione SWAP)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1638
+msgid "RecordMaxSectors"
+msgstr "RecordMaxSectors"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1639
+msgid "SwapMaxSectors"
+msgstr "SwapMaxSectors"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1642
+msgid "RecordSplitSize"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1643
+msgid "RecordSplitType"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1646
+msgid "emucontrol"
+msgstr "emucontrol (Controllo Emu con MP/MC)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1647
+msgid "ftdi"
+msgstr "ftdi (RS232 Support lettore scheda)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1648
+msgid "pl2303"
+msgstr "pl2303 (USB Support letorre scheda)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1649
+msgid "nr_usbreaders"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1650
+msgid "iwatch"
+msgstr "iwatch (Inc Neustart bei Verbindungsverlust)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1653
+msgid "nfsserver"
+msgstr "nfsserver (attivare Server NFS)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1654
+msgid "sambaserver"
+msgstr "sambaserver (WIN Freigabeserver)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1657
+msgid "Parental"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1658
+#, fuzzy
+msgid "Pin"
+msgstr "Plugin IPK"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1661
+msgid "maxRate"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1662
+msgid "maxDelay"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1665
+#, fuzzy
+msgid "szap"
+msgstr "swap (Usa memoria supplementare Spaw)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1666
+msgid "szaplong"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1667
+msgid "szap_frontend"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1668
+msgid "szap_emul"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1669
+msgid "szap_diseqc_repeat"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1672
+#, fuzzy
+msgid "Username"
+msgstr "User"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1673
+#, fuzzy
+msgid "Password"
+msgstr "Passwort"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1674
+msgid "Virtual Keyboard"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1701
+msgid "Opendroid Config"
+msgstr "Configurazione Opendroid"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1711
+msgid "Enter Username:"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:1713
+msgid "Enter Password:"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2123
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2124
+msgid "default"
+msgstr "normale"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2123
+msgid "afterTV"
+msgstr "dopo l'immagine TV"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2123
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2124
+msgid "disable"
+msgstr "disattivato"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2152
+msgid "WebBouquetEditor(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2153
+#, fuzzy
+msgid "MediaCenter(extension)"
+msgstr "MediaCenter (Plugin)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2155
+#, fuzzy
+msgid "MediaPlayer(extension)"
+msgstr "MediaPlayer (Erweiterung)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2156
+#, fuzzy
+msgid "WebInterface(extension)"
+msgstr "WebInterface (Plugin)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2157
+#, fuzzy
+msgid "GraphMultiEPG(extension)"
+msgstr "GraphMultiEPG (Plugin)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2158
+msgid "IMDb(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2160
+msgid "SplitScreen(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2162
+msgid "VirtualZap(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2163
+msgid "CleanupWizard(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2164
+msgid "CrashlogAutoSubmit(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2165
+msgid "SimpleBitrate(extension)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2166
+#, fuzzy
+msgid "VFD_Brightness(extension)"
+msgstr "VFD-Brightness (Plugin)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2167
+#, fuzzy
+msgid "SocketMMI(extension)"
+msgstr "SocketMMI (Plugin)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2168
+#, fuzzy
+msgid "AutoResolution(system)"
+msgstr "BootResolution (Risoluzione Boot)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2169
+#, fuzzy
+msgid "CommonInterfaceAssignment(system)"
+msgstr "CommonInterfaceAssignment (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2170
+#, fuzzy
+msgid "Hotplug(system)"
+msgstr "HotPlug (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2171
+#, fuzzy
+msgid "NetworkBrowser(system)"
+msgstr "NetworkBrowser (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2172
+#, fuzzy
+msgid "NetworkServer(system)"
+msgstr "NetworkServer (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2173
+msgid "NetworkWizard(system)"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2174
+#, fuzzy
+msgid "PositionerSetup(system)"
+msgstr "PositionerSetup (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2175
+#, fuzzy
+msgid "SatelliteEquipmentControl(system)"
+msgstr "SatelliteEquipmentControl (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2176
+#, fuzzy
+msgid "Satfinder(system)"
+msgstr "Satfinder (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2177
+#, fuzzy
+msgid "SkinSelector(system)"
+msgstr "Skinselector (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2178
+#, fuzzy
+msgid "Tuxtxt(system)"
+msgstr "Tuxtxt (Sistema)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2184
+msgid "Plugload Settings"
+msgstr "Impostazione Plugload"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2351
+msgid "Ok"
+msgstr "Ok"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2365
+msgid "Ntfs Write"
+msgstr "NTFS schreibbar machen"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2455
+msgid "Image Info"
+msgstr "Info immagine"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2696
+msgid "Open Opendroid-Panel when pressing red button:"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2742
+msgid "Record HDD Info"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2760
+#, fuzzy
+msgid ""
+"HDD not mounted !\n"
+"Maybe you use a share as record partition!\n"
+"This should work,too! :)"
+msgstr ""
+"Festplatte nicht gefunden aber /media/hdd ist ein Link!!\n"
+"Vielleicht nutzt du einen Share zum aufnehmen!!\n"
+"Das sollte auch funktionieren! ;)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2762
+msgid "RECORD HDD NOT MOUNTED !"
+msgstr "Partizione RECORD non disponibile!!!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2766
+msgid "Device: "
+msgstr "Dispositivo:"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2767
+#, fuzzy
+msgid "Directory: /hdd\n"
+msgstr "Percorso:"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2768
+msgid "Label: "
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2769
+msgid "Filesystem: "
+msgstr "Filesistem: "
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:2770
+msgid "RECORD HDD correct MOUNTED"
+msgstr "Partizione RECORD HDD disponibile!!!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3011
+#, fuzzy
+msgid "restore"
+msgstr "Restore"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3012
+#, fuzzy
+msgid "backup "
+msgstr "Bachup"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3014
+msgid ""
+"Press -restore- and your saved settings will be restored from your "
+"swapstick / recording hdd! The Box will restart automatically for "
+"restoring!\n"
+"\n"
+"Press -backup- to save your actual settings to swapstick / recording hdd.\n"
+"WARNING: The old backup will be deleted!\n"
+"\n"
+"While using the update function of the Opendroid Panel, your settings will be "
+"saved and restored automatically, if possible!"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3038
+msgid "Backup - Settings"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3040
+msgid ""
+"ERROR: A record hdd or a swapstick must be mounted!\n"
+" Aborting backup...."
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3054
+msgid ""
+"ERROR: No backup folders found!!!\n"
+" Aborting restoring..."
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3067
+msgid ""
+"You find this Backup with timestamp on /tmp\n"
+"Connecting per ftp and copy this backup to your Pc !\n"
+"Please Waiting 2 Min ... and relax\n"
+" \n"
+"Next infos on LCD Display!"
+msgstr ""
+"You find this Backup with timestamp on /tmp\n"
+"Connecting per ftp and copy this backup to your Pc !\n"
+"Please Waiting 2 Min ... and relax\n"
+" \n"
+"Next infos on LCD Display!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3077
+msgid "Select backup"
+msgstr "Seleziona Backup"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3088
+msgid "Create Backup"
+msgstr "Crea un backup..."
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3111
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3279
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3480
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3689
+msgid "Install"
+msgstr "installiare"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3113
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3281
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3691
+msgid "Update"
+msgstr "Aggiornamento"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3173
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3369
+#, fuzzy
+msgid "Start Kernel Update now ?"
+msgstr "Esegui aggiornamento Kernel?"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3176
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3372
+#, fuzzy
+msgid "Start Fw Update now ?"
+msgstr "Esegui aggiornamento VAR?"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3179
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3375
+#, fuzzy
+msgid "Start Root Update now ?"
+msgstr "Esegui aggiornamento Root?"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3182
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3378
+#, fuzzy
+msgid "Start Var Update now ?"
+msgstr "Esegui aggiornamento VAR?"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3185
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3381
+#, fuzzy
+msgid "Start Full Update now ?"
+msgstr "Esegui backup completo?"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3187
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3383
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3883
+#, fuzzy
+msgid "Filename error ! Please use correct Filename !"
+msgstr "Dateiname Falsch! Bitte richtigen Dateinamen verwenden!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3189
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3385
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3885
+#, fuzzy, python-format
+msgid "No %s Image found !"
+msgstr ""
+"IPK non trovato\n"
+"\n"
+"\n"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3331
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3833
+msgid "Error cant get Online Server information !"
+msgstr "Download informazioni Server fallito!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3334
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3836
+msgid "Your System is UpToDate !"
+msgstr "Sistema è aggiornato !"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3337
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3839
+msgid "Error Server is Offline ! Try again later !"
+msgstr "Server offline!! Riprova più tardi!"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3582
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3814
+msgid "Select mini device"
+msgstr "Scegli il dispositivo per l'installazione"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3631
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3881
+#, fuzzy, python-format
+msgid ""
+"Start Usb Update now ?\n"
+"\n"
+"%s\n"
+"Device: %s"
+msgstr ""
+"Start Usb Update now ?\n"
+"\n"
+"%s\n"
+"Device: %s"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3943
+#, fuzzy
+msgid "front"
+msgstr "front"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3943
+#, fuzzy
+msgid "backupper"
+msgstr "Bachup"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3943
+msgid "backlower"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3948
+#, fuzzy
+msgid "Bootdesc (default)"
+msgstr "Spegnimento Deep-Standby (default)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3949
+msgid "BootMenuTimeout"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3950
+msgid "Mini USB"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3951
+msgid "Mini Timeout"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3952
+msgid "internal hdd"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:3971
+#, fuzzy
+msgid "Miniuboot Config"
+msgstr "Configurazione MiniUboot"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4143
+msgid "Test frequency"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4146
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4150
+#, fuzzy
+msgid "450 (default)"
+msgstr "normale"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4146
+msgid "500"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4146
+msgid "600"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4146
+msgid "650"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4146
+msgid "700"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4148
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4152
+#, fuzzy
+msgid "266 (default)"
+msgstr "normale"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4148
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4150
+msgid "300"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4148
+msgid "333"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4148
+msgid "366"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4148
+msgid "400"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4150
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4152
+msgid "200"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4150
+msgid "100"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4152
+msgid "166"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4152
+msgid "133"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4153
+msgid "frequency"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4153
+#, fuzzy
+msgid "videmode"
+msgstr "Videomode (System)"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4179
+#, fuzzy
+msgid "OverClock Settings"
+msgstr "Ripristino Settings"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4184
+msgid "Only Boot Overclock"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4185
+msgid "CPU frequency"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4189
+msgid "FDMA bypass"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4190
+msgid "Reduce Standby frequency"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4192
+msgid "Standby frequency"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4196
+msgid "Use Teletxt Workaround"
+msgstr ""
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4488
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4552
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4584
+msgid "Brightness"
+msgstr "Luminosità"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4490
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4559
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4591
+msgid "Contrast"
+msgstr "Contrasto"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4492
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4566
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4598
+msgid "Saturation"
+msgstr "Saturazione"
+
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4494
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4573
+#: D:\Receiver\Development\Opendroid-TEAM-SVN\image\source.enigma2\Extensions\OPDpanel/plugin.py:4605
+msgid "Tint"
+msgstr "Tint"
