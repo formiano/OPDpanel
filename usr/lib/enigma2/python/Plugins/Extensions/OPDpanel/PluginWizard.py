@@ -88,7 +88,7 @@ class ManualPanel(Screen):
 #################
 class PanelIPKInstaller(Screen):
 	skin = """
-    		<screen name="InstallIpk" position="center,100" size="750,520" title="Select ipk Files">
+    		<screen name="PanelIPKInstaller" position="center,100" size="750,520" title="Select ipk Files">
 		<widget source="list" render="Listbox" position="10,10" size="880,300" scrollbarMode="showOnDemand">
 		<convert type="TemplatedMultiContent">
 		{"template": [
@@ -225,26 +225,13 @@ class PanelTGzInstaller(Screen):
 ######################################################################################################
 class AdvInstallIpk(Screen):
 	skin = """
-    		<screen name="AdvInstallIpk" position="center,100" size="750,520" title="Advance ipk Installer">
-		<widget source="menu" render="Listbox" position="10,10" size="880,300" scrollbarMode="showOnDemand">
-		<convert type="TemplatedMultiContent">
-		{"template": [
-		MultiContentEntryText(pos = (70, 2), size = (630, 25), font=0, flags = RT_HALIGN_LEFT, text = 0), # index 2 is the Menu Titel
-		MultiContentEntryText(pos = (80, 29), size = (630, 18), font=1, flags = RT_HALIGN_LEFT, text = 1), # index 3 is the Description
-		MultiContentEntryPixmapAlphaTest(pos = (5, 5), size = (50, 50), png = 2), # index 4 is the pixmap
-		],
-		"fonts": [gFont("Regular", 23),gFont("Regular", 16)],
-		"itemHeight": 60
-		}
-		</convert>
+		<screen name="AdvInstallIpk" position="80,95" size="620,450" title="Select install files" >
+		<widget source="menu" render="Listbox" position="10,10" size="600,300" scrollbarMode="showOnDemand">
+		<convert type="StringList" />
 		</widget>
-		<ePixmap position="15,385" zPosition="1" size="35,27" pixmap="/usr/share/enigma2/oDreamy/buttons/redpanel.png" transparent="1" alphatest="on" />
-		<ePixmap position="180,385" zPosition="1" size="35,27" pixmap="/usr/share/enigma2/oDreamy/buttons/greenpanel.png" transparent="1" alphatest="on" />
-                            <ePixmap position="350,385" zPosition="1" size="35,27" pixmap="/usr/share/enigma2/oDreamy/buttons/yellowpanel.png" transparent="1" alphatest="on" />
-		<widget source = "key_red" render="Label" position="43,385" zPosition="2" size="120,26" valign="center" halign="center" font="Regular;22" transparent="1" />
-		<widget source = "key_green" render="Label" position="224,385" zPosition="2" size="350,26" valign="center" halign="left" font="Regular;22" transparent="1" />
-                            <widget source = "key_yellow" render="Label" position="392,385" zPosition="2" size="350,26" valign="center" halign="left" font="Regular;22" transparent="1" />
-        <eLabel position="10,375" size="880,2" backgroundColor="blue" foregroundColor="bluette" />
+		<widget source="key_red" render="Label" position="40,360" zPosition="2" size="170,30" font="Regular;20" foregroundColor="red" transparent="1" />
+		<widget source="key_green" render="Label" position="220,360" zPosition="2" size="170,30" font="Regular;20" foregroundColor="green" transparent="1" />
+		<widget source="key_yellow" render="Label" position="400,360" zPosition="2" size="170,30" font="Regular;20" foregroundColor="yellow" transparent="1" />
 		</screen>"""
 	  
 	def __init__(self, session, args=None):
@@ -262,9 +249,9 @@ class AdvInstallIpk(Screen):
 				"yellow": self.okInstAll,
 			},-1)
 		self.list = [ ]
-		self["key_red"] = StaticText(_("Close"))
-		self["key_green"] = StaticText(_("Install"))
-		self["key_yellow"] = StaticText(_("Install All"))
+		self['key_red'] = Label(_('Close'))
+		self['key_green'] = Label(_('Install'))
+		self['key_yellow'] = Label(_('Install All'))
 		
 	def nList(self):
 		self.list = []
@@ -288,7 +275,7 @@ class AdvInstallIpk(Screen):
 		
 	def okInstAll(self):
 		name = "*.ipk"
-		self.session.open(Console,title = _("Install ipk packets"), cmdlist = ["opkg install -force-overwrite -force-downgrade /tmp/%s" % name])
+		self.session.open(Console,title = _("Advance ipk Installer"), cmdlist = ["opkg install -force-overwrite -force-downgrade /tmp/%s" % name])
 		
 	def cancel(self):
 		self.close()
@@ -324,9 +311,9 @@ class RemoveIPK(Screen):
 	def __init__(self, session, args=None):
 		Screen.__init__(self, session)
 		self.session = session
-		self["key_red"] = StaticText(_("Close"))
-		self["key_green"] = StaticText(_("UnInstall"))
-		self["key_yellow"] = StaticText(_("Force UnInstall"))
+		self['key_red'] = Label(_('Close'))
+		self['key_green'] = Label(_('UnInstall'))
+		self['key_yellow'] = Label(_('Force UnInstall'))
 		self.list = []
 		self["menu"] = List(self.list)
 		self.nList()

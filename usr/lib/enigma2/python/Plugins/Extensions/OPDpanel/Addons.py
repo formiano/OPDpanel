@@ -182,7 +182,7 @@ class Connection_Server(Screen):
         self.onLayoutFinish.append(self.Connection)
 
     def Connection(self):
-        xurl = 'http://' + self.addon + '/list'
+        xurl = 'http://images.opendroid.org/Addons/' + self.addon + '/list'
         xdest = '/tmp/ipklist.txt'
         print 'xdest =',
         print xdest
@@ -228,11 +228,16 @@ class Connection_Server(Screen):
 
 
 class Installer_Addons(Screen):
-    skin = '\n\t\t<screen name="Installer_Addons" position="center,center" size="550,500" title="Installation Process" >\n\t\t<widget name="infotext" position="10,0" size="520,450" />\n\t\t<eLabel position="70,100" zPosition="-1" size="100,69" foregroundColor="white" />\n\t\t<widget name="info" position="100,300" zPosition="4" size="300,60" font="Regular;22" transparent="1" />\n\t\t</screen>'
+    skin ="""
+		<screen name="Installer_Addons" position="center,center" size="550,500" title="Installation Process" >
+		<widget name="infotext" position="10,0" size="520,450" />
+		<eLabel position="70,100" zPosition="-1" size="100,69" foregroundColor="white" />
+		<widget name="info" position="100,300" zPosition="4" size="300,60" font="Regular;22" transparent="1" />
+		</screen>"""
 
     def __init__(self, session, ipk, addon):
         Screen.__init__(self, session)
-        self['infotext'] = ScrollLabel('')
+        self['infotext'] = Label()
         self['info'] = Label()
         self['actions'] = ActionMap(['OkCancelActions'], {'ok': self.close,
          'cancel': self.close}, -1)
@@ -242,7 +247,7 @@ class Installer_Addons(Screen):
         self.onLayoutFinish.append(self.Install)
 
     def Install(self):
-        xurl1 = 'http://' + self.addon + '/'
+        xurl1 = 'http://images.opendroid.org/Addons/' + self.addon + '/'
         xurl2 = xurl1 + self.ipk
         xdest2 = '/tmp/' + self.ipk
         print 'xdest2 =',

@@ -381,8 +381,8 @@ class OPDpanel(Screen, InfoBarPiP):
             self.session.open(PluginBrowser)
         elif menu == 'Infos':
             self.Infos()
-        elif menu == 'OPDPanel':
-            self.session.open(Info, 'OPDPanel')
+        elif menu == 'Service_Team':
+            self.session.open(Info, 'Service_Team')
         elif menu == 'Info':
             self.session.open(Info, 'SystemInfo')
         elif menu == 'ImageVersion':
@@ -482,7 +482,7 @@ class OPDpanel(Screen, InfoBarPiP):
         self.oldmlist = []
         self.oldmlist1 = []
         self.oldmlist = self.Mlist
-        self.tlist.append(MenuEntryItem((InfoEntryComponent('OPDPanel'), _('OPDPanel'), 'OPDPanel')))
+        self.tlist.append(MenuEntryItem((InfoEntryComponent('Service_Team'), _('Service_Team'), 'Service_Team')))
         self.tlist.append(MenuEntryItem((InfoEntryComponent('ImageVersion'), _('Image-Version'), 'ImageVersion')))
         self.tlist.append(MenuEntryItem((InfoEntryComponent('FreeSpace'), _('FreeSpace'), 'FreeSpace')))
         self.tlist.append(MenuEntryItem((InfoEntryComponent('Kernel'), _('Kernel'), 'Kernel')))
@@ -850,8 +850,8 @@ class Info(Screen):
         self.skin = INFO_SKIN
         self['label2'] = Label('INFO')
         self['label1'] = ScrollLabel()
-        if info == 'OPDPanel':
-            self.OPDPanel()
+        if info == 'Service_Team':
+            self.Service_Team()
         if info == 'SystemInfo':
             self.SystemInfo()
         elif info == 'ImageVersion':
@@ -898,7 +898,7 @@ class Info(Screen):
     def Up(self):
         self['label1'].pageUp()
 
-    def OPDPanel(self):
+    def Service_Team(self):
         try:
             self['label2'].setText('INFO')
             info1 = self.Do_cmd('cat', '/etc/motd', None)
