@@ -78,7 +78,7 @@ class AddonsUtility(Screen):
             self.title = ' OPD Downloader Picons'
             self.session.open(Connection_Server, addons, self.title)
         elif selection == 'Stg':
-            addons = 'Setting'
+            addons = 'Settings'
             self.title = ' OPD Downloader Settings '
             self.session.open(Connection_Server, addons, self.title)
         elif selection == 'Sks':
